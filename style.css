@@ -23,4 +23,7 @@ body {
     #toast-container {
       width: 250px;
     }
+    #card {
+        font-size: 14px;
+    }
   }
